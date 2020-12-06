@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# External libraries
+lib/*
+
+# Build folder
+build/*
